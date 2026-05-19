@@ -1,0 +1,48 @@
+{
+  "site": {
+    "title": "San Forge",
+    "description": "Revolutionizing construction with advanced robotics and 3D concrete printing.",
+    "contact": {
+      "email": "contact@sanforge.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "100 Innovation Way, Tech City"
+    }
+  },
+  "hero": {
+    "heading": "Building the Future of Construction",
+    "subheading": "Deeptech robotics and 3D concrete printing for faster, stronger, and more sustainable habitats.",
+    "cta": "Explore Our Tech"
+  },
+  "technology": {
+    "heading": "Our Technology",
+    "description": "We are pushing the boundaries of what is possible in construction through state-of-the-art robotics and advanced materials.",
+    "items": [
+      {
+        "id": "robotics",
+        "title": "Construction Robotics",
+        "description": "Autonomous robotic systems designed for precision placement, reinforcement handling, and site preparation.",
+        "icon": "Bot"
+      },
+      {
+        "id": "3d-printing",
+        "title": "3D Concrete Printing",
+        "description": "Large-scale extrusion technology capable of printing resilient architectural structures directly on-site.",
+        "icon": "Printer"
+      },
+      {
+        "id": "materials",
+        "title": "Advanced Materials",
+        "description": "Proprietary, high-performance concrete mixtures formulated for rapid curing and extreme durability.",
+        "icon": "Layers"
+      }
+    ]
+  },
+  "vision": {
+    "heading": "Our Vision",
+    "description": "To democratize high-quality, sustainable housing and infrastructure worldwide through automation. We envision a world where building a home is as efficient as manufacturing a car.",
+    "imagePlaceholder": "A futuristic cityscape with 3D printed structures."
+  },
+  "footer": {
+    "text": "© 2024 San Forge. All rights reserved."
+  }
+}
